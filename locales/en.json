@@ -85,13 +85,7 @@
   "enterTokenCont": "Enter a token address to continue",
   "priceChange": "Expected price slippage",
   "forAtLeast": "for at least ",
-  "brokenToken": "The selected token is not compatible with Uniswap V1. Adding liquidity will result in locked funds.",
+  "brokenToken": "The selected token is not compatible with Iccswap V1. Adding liquidity will result in locked funds.",
   "toleranceExplanation": "Lowering this limit decreases your risk of frontrunning. However, this makes more likely that your transaction will fail due to normal price movements.",
-  "tokenSearchPlaceholder": "Search name or paste address",
-  "max": "MAX",
-  "Enter an amount": "Enter an amount",
-  "Select a token": "Select a token",
-  "Swap anyway": "Swap Anyway",
-  "Price Impact High": "Price Impact High",
-  "Insufficient x balance": "Insufficient {{ currency }} balance"
+  "tokenSearchPlaceholder": "Search name or paste address"
 }
